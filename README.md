@@ -26,9 +26,9 @@
  36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto:
  
  38. Si un óhmetro fuera colocado entre las terminales de un interruptor, ¿qué resistencia esperaría medir cuando los contactos del interruptor estén cerrados y cuando estén   abiertos?
- Cuando esté abierto el óhmetro marcara resistencia infinita.
+ - Cuando esté abierto el óhmetro marcara resistencia infinita.
  
- Cuando esté cerrado el óhmetro marcara 0 de corto circuito.
+ - Cuando esté cerrado el óhmetro marcara 0 de corto circuito.
 
  40. Se usa un óhmetro analógico para medir la resistencia de un componente de dos terminales. El óhmetro indica una resistencia de 1.5 k. Cuando se invierten las terminales el medidor indica que la resistencia del componente es un circuito abierto. ¿El componente está defectuoso? Si no, ¿qué tipo de componente se está probando?
  
