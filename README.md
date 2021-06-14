@@ -1,3 +1,3 @@
 
-**InformeTarea2
-**1.1. Objetivo General
+*InformeTarea2*
+*1.1. Objetivo General*
