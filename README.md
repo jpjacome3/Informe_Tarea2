@@ -17,7 +17,7 @@
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
- **Capitulo 3**
+ **CAPITULO 3**
  
  32. Deduzca la expresión de la ecuación 3-8.
  
@@ -35,13 +35,21 @@
  
  46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x   0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
  
- **Capitulo 4**
+ **CAPITULO 4**
  2. Determine R para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: ohms, kilohms, megaohms, etcétera.
  
- 4. Un calentador de agua de 48\mathbf{\Omega}  se conecta a una fuente de 120 V. ¿Cuál es la corriente que demanda?
+ 4. Un calentador de agua de 48 ohms  se conecta a una fuente de 120 V. ¿Cuál es la corriente que demanda?
  
- 6. ¿Cuál es la diferencia de potencial entre los extremos de un resistor de 20\mathbf{\Omega}\  cuando su corriente es de \mathbf{3}{\mathbit{x}\mathbf{10}}^{-\mathbf{3}}\mathbit{A}?
+ 6. ¿Cuál es la diferencia de potencial entre los extremos de un resistor de 20 ohms cuando su corriente es de 3x10^-3A?
  
+ 8. Un relevador con una resistencia de la bobina de 240\ \mathbf{\Omega} requiere un mínimo de 50 mA para operar. ¿Cuál es el mínimo voltaje para que funcione?
+ 
+ 
+ 10. Si I= 36 mA cuando E=12 V, ¿cuánto vale I si la fuente de 12 V es:
+
+ 12. En el circuito de la figura 4-34
+ 
+ 14. Una fuente de voltaje de 20 V se aplica a un resistor con bandas café, negra, roja y plata
  
 ## 4. VIDEO
 
