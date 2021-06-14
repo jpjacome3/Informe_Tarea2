@@ -50,7 +50,7 @@
  
  10. Si I= 36 mA cuando E=12 V, ¿cuánto vale I si la fuente de 12 V es:
 
- 12. En el circuito de la figura 4-34
+ 12. En el circuito de la figura 4-34 
  
  14. Una fuente de voltaje de 20 V se aplica a un resistor con bandas café, negra, roja y plata
  
