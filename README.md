@@ -1,10 +1,10 @@
 
 # InformeTarea2
 **Integrantes:**
--Jean Jacome
--Jordy Coyaguillo
--Ivan Vasquez
--Francisco Salazar
+- Jean Jacome
+- Jordy Coyaguillo
+- Ivan Vasquez
+- Francisco Salazar
 
 
  **NRC:** 5406
