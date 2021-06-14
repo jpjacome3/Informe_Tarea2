@@ -88,3 +88,5 @@
 
 ## 5. CONCLUSIONES
 ## 6. BIBLIOGRAFIA
+
+García, A. (05 de Marzo de 2021). Economipedia. Obtenido de https://economipedia.com/definiciones/ley-de-ohm.html
