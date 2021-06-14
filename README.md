@@ -17,6 +17,7 @@
  
  ## 2. MARCO TEÓRICO 
  
+ ![LeyOhm](https://user-images.githubusercontent.com/84586968/121971639-d0d1aa00-cd3e-11eb-979c-cecfad73af02.png)
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
