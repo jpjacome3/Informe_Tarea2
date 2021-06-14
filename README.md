@@ -17,6 +17,32 @@
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
+ **Capitulo 3**
+ 
+ 32. Deduzca la expresión de la ecuación 3-8.
+ 
+ 34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 k ohm y da 50 k ohm. Determine la resistencia que   se medirá entre la terminal superior a, y la terminal del contacto deslizante b.
+ 
+ 36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto:
+ 
+ 38. Si un óhmetro fuera colocado entre las terminales de un interruptor, ¿qué resistencia esperaría medir cuando los contactos del interruptor estén cerrados y cuando estén   abiertos?
+ 
+ 40. Se usa un óhmetro analógico para medir la resistencia de un componente de dos terminales. El óhmetro indica una resistencia de 1.5 k. Cuando se invierten las terminales el medidor indica que la resistencia del componente es un circuito abierto. ¿El componente está defectuoso? Si no, ¿qué tipo de componente se está probando?
+ 
+ 42. Para la fotocelda que tiene las características que se muestra en la figura 3-24(c), determine la resistencia
+ 
+ 44. Determine la resistencia de los componentes que tienen las siguientes conductancias:
+ 
+ 46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x   0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
+ 
+ **Capitulo 4**
+ 2. Determine R para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: ohms, kilohms, megaohms, etcétera.
+ 
+ 4. Un calentador de agua de 48\mathbf{\Omega}  se conecta a una fuente de 120 V. ¿Cuál es la corriente que demanda?
+ 
+ 6. ¿Cuál es la diferencia de potencial entre los extremos de un resistor de 20\mathbf{\Omega}\  cuando su corriente es de \mathbf{3}{\mathbit{x}\mathbf{10}}^{-\mathbf{3}}\mathbit{A}?
+ 
+ 
 ## 4. VIDEO
 
 ## 5. CONCLUSIONES
