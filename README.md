@@ -31,7 +31,7 @@
  - Cuando esté cerrado el óhmetro marcara 0 de corto circuito.
 
  40. Se usa un óhmetro analógico para medir la resistencia de un componente de dos terminales. El óhmetro indica una resistencia de 1.5 k. Cuando se invierten las terminales el medidor indica que la resistencia del componente es un circuito abierto. ¿El componente está defectuoso? Si no, ¿qué tipo de componente se está probando?
- 
+ - El componente no está defectuoso, esto quiere decir que un alambre hace un cortocircuito el entre los dos terminales.
  42. Para la fotocelda que tiene las características que se muestra en la figura 3-24(c), determine la resistencia
  
  44. Determine la resistencia de los componentes que tienen las siguientes conductancias:
