@@ -1,3 +1,3 @@
-# Informe_Tarea2
-cabeza de pito
-Ivan puto
+
+##InformeTarea2
+##1.1. Objetivo General
