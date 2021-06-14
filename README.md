@@ -36,6 +36,7 @@
  46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x   0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
  
  **CAPITULO 4**
+ 
  2. Determine R para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: ohms, kilohms, megaohms, etcétera.
  
  4. Un calentador de agua de 48 ohms  se conecta a una fuente de 120 V. ¿Cuál es la corriente que demanda?
@@ -43,7 +44,6 @@
  6. ¿Cuál es la diferencia de potencial entre los extremos de un resistor de 20 ohms cuando su corriente es de 3x10^-3A?
  
  8. Un relevador con una resistencia de la bobina de 240\ \mathbf{\Omega} requiere un mínimo de 50 mA para operar. ¿Cuál es el mínimo voltaje para que funcione?
- 
  
  10. Si I= 36 mA cuando E=12 V, ¿cuánto vale I si la fuente de 12 V es:
 
