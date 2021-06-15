@@ -133,3 +133,9 @@ Finalmente se puede concluir que para realizar ejercicios sean de circuitos u ot
 ## 6. BIBLIOGRAFIA
 
 García, A. (05 de Marzo de 2021). Economipedia. Obtenido de https://economipedia.com/definiciones/ley-de-ohm.html
+
+eduMedia. (s.f.). EduMedia. Obtenido de https://www.edumedia-sciences.com/es/media/657-potencia-y-energia-electrica
+
+Fluke. (9 de Mayo de 2021). Fluke.com. Obtenido de https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
+
+
