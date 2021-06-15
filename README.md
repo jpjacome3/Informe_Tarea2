@@ -124,6 +124,8 @@
 
 ## 4. VIDEO
 
+https://youtu.be/9qn-b7YIVTI
+
 ## 5. CONCLUSIONES
 
 Finalmente se puede concluir que para realizar ejercicios sean de circuitos u otos debemos tener en cuenta nuestras resistencias ya que estas pueden afectarse debido a factores externos por eso fue importante conocer diferentes tipos de situaciones que se pueden presentar en el transcurso de armar un circuito u otro tipo de ejercicios.
