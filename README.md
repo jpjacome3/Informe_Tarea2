@@ -23,6 +23,21 @@
  
  **CAPITULO 3**
  
+ ![image](https://user-images.githubusercontent.com/85137954/122004505-1c557980-cd7a-11eb-96a3-ac2082d81e5a.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122004643-45760a00-cd7a-11eb-8c8e-b083c458ce12.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122004827-8110d400-cd7a-11eb-89f8-9213f488aa03.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122004933-a56cb080-cd7a-11eb-92ed-6e5baac0e741.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122005083-ce8d4100-cd7a-11eb-9b02-23ff05f3bf46.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122005187-efee2d00-cd7a-11eb-9c20-522c39e0a396.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122005360-2a57ca00-cd7b-11eb-97c6-7a2f145b2dae.png)
+
+ 
  32.Deduzca la expresión de la ecuación 3-8.
  
  ![32](https://user-images.githubusercontent.com/84586968/121966128-ba722100-cd33-11eb-88d9-4bc1b918e40d.png)
