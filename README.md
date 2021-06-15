@@ -21,6 +21,11 @@
  
  ![LeyOhm](https://user-images.githubusercontent.com/84586968/121971639-d0d1aa00-cd3e-11eb-979c-cecfad73af02.png)
  
+ ![WhatsApp Image 2021-06-15 at 01 35 27](https://user-images.githubusercontent.com/85137954/122007068-2f1d7d80-cd7d-11eb-9a93-28344414a1c6.jpeg)
+
+
+![WhatsApp Image 2021-06-15 at 01 01 22](https://user-images.githubusercontent.com/85137954/122007076-32b10480-cd7d-11eb-9691-6451c9836079.jpeg)
+
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
  
  **CAPITULO 3**
@@ -101,6 +106,22 @@
  
  ![14](https://user-images.githubusercontent.com/84586968/121966156-c1992f00-cd33-11eb-9d37-2e826050a1b9.png)
  
+ ![WhatsApp Image 2021-06-15 at 01 51 56](https://user-images.githubusercontent.com/85137954/122007175-49eff200-cd7d-11eb-9590-775cfd6c5f1b.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 52 12](https://user-images.githubusercontent.com/85137954/122007200-4fe5d300-cd7d-11eb-8e0d-a66d5770eaa3.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 52 24](https://user-images.githubusercontent.com/85137954/122007220-5411f080-cd7d-11eb-930a-71f3645cddb9.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 52 44](https://user-images.githubusercontent.com/85137954/122007239-5b38fe80-cd7d-11eb-9bbe-3dda065a4e91.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 52 59](https://user-images.githubusercontent.com/85137954/122007257-5f651c00-cd7d-11eb-8c69-26eedb644069.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 53 22](https://user-images.githubusercontent.com/85137954/122007279-64c26680-cd7d-11eb-99b6-940c548c6f83.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 54 00](https://user-images.githubusercontent.com/85137954/122007314-6db33800-cd7d-11eb-9be2-bcd8c24b0326.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 53 41](https://user-images.githubusercontent.com/85137954/122007298-6855ed80-cd7d-11eb-84c0-6e876f2d0674.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 54 33](https://user-images.githubusercontent.com/85137954/122007340-73a91900-cd7d-11eb-9977-a6dba35830ce.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 54 49](https://user-images.githubusercontent.com/85137954/122007358-7a379080-cd7d-11eb-83c4-7b3a18ca6e78.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 55 05](https://user-images.githubusercontent.com/85137954/122007389-815e9e80-cd7d-11eb-92db-86d7a8aa8ccb.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 55 25](https://user-images.githubusercontent.com/85137954/122007407-86235280-cd7d-11eb-90ed-e18dd8762d50.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 55 47](https://user-images.githubusercontent.com/85137954/122007437-8b809d00-cd7d-11eb-9b44-a699863e0dc8.jpeg)
+ ![WhatsApp Image 2021-06-15 at 01 56 07](https://user-images.githubusercontent.com/85137954/122007454-90455100-cd7d-11eb-9cf9-77fe3f70e19d.jpeg)
+
+
 ## 4. VIDEO
 
 ## 5. CONCLUSIONES
