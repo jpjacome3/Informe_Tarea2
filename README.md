@@ -15,6 +15,8 @@
  
  ## 1. OBJETIVOS
  
+ Analizar y comprender los métodos, fórmulas aplicadas en el desarrollo de los ejercicios teniendo en cuenta la importancia de los elementos resistivos ya que estos nos son de mucha ayuda al momento de relizar los circuitos por ende debemos entender cuales son las condiciones adecuadas de cada resitor o resistencia.
+ 
  ## 2. MARCO TEÓRICO 
  
  ![LeyOhm](https://user-images.githubusercontent.com/84586968/121971639-d0d1aa00-cd3e-11eb-979c-cecfad73af02.png)
@@ -102,6 +104,9 @@
 ## 4. VIDEO
 
 ## 5. CONCLUSIONES
+
+Finalmente se puede concluir que para realizar ejercicios sean de circuitos u otos debemos tener en cuenta nuestras resistencias ya que estas pueden afectarse debido a factores externos por eso fue importante conocer diferentes tipos de situaciones que se pueden presentar en el transcurso de armar un circuito u otro tipo de ejercicios.
+
 ## 6. BIBLIOGRAFIA
 
 García, A. (05 de Marzo de 2021). Economipedia. Obtenido de https://economipedia.com/definiciones/ley-de-ohm.html
